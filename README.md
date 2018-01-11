@@ -9,7 +9,7 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 ### Preparation
 
 1. Create an account on [GitHub.com](github.com)
-2. Fork [CryptoNote repository](https://github.com/cryptonotefoundation/cryptonote)
+2. Fork [EsibitCoin repository](https://github.com/logix-software/esibitcoin)
 3. Buy one or two Ubuntu-based dedicated servers (at least 2Gb of RAM) for seed nodes.
 
 
